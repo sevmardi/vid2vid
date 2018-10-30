@@ -1,5 +1,6 @@
 import os
-from download_gdrive import *
+# from download_gdrive import *
+from street.download_gdrive import *
 
 file_id = '1E8re-b6csNuo-abg1vJKCDjCzlIam50F'
 chpt_path = './models/flownet2_pytorch/'

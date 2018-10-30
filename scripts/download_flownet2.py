@@ -1,5 +1,5 @@
 import os
-from download_gdrive import *
+from street.download_gdrive import *
 import torch
 
 if torch.__version__ == '0.4.1':
