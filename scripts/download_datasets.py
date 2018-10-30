@@ -1,5 +1,5 @@
 import os
-from download_gdrive import *
+from street.download_gdrive import *
 
 file_id = '1rPcbnanuApZeo2uc7h55OneBkbcFCnnf'
 chpt_path = './datasets/'
